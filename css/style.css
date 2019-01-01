@@ -1,6 +1,17 @@
 body, html {
 	margin: 0;
-	background-color: #808080;
+	/*background-color: #808080;*/
+	background: #e9c0d0;
+	color: #db7ea2l;
+	font-family: "Arial Narrow Bold", "Arial", sans-serif;
+}
+
+#main-header {
+
+}
+
+#sub-header {
+
 }
 
 /* nav container, overriding default values */
