@@ -12,6 +12,7 @@ body, html {
 	text-align: center;
 	vertical-align: middle;
 	overflow: hidden;
+	border: 1px solid yellow;
 }
 
 #main-header {
