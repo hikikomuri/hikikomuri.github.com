@@ -13,11 +13,12 @@ body, html {
 
 #main-header {
 	font-size: 92px;
+	line-height: 98px;
 }
 
 #sub-header {
 	font-size: 36px;
-	letter-spacing: 1em;
+	letter-spacing: 0.75em;
 }
 
 /* nav container, overriding default values */
