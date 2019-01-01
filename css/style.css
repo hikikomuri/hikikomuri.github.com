@@ -6,6 +6,11 @@ body, html {
 	font-family: "Arial Narrow Bold", "Arial", sans-serif;
 }
 
+#container {
+	text-align: center;
+	padding-top: 200px;
+}
+
 #main-header {
 
 }
