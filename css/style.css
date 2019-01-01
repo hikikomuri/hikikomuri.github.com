@@ -4,13 +4,13 @@ body, html {
 	background: #e9c0d0;
 	color: #db7ea2;
 	font-family: "Arial Narrow Bold", "Arial", sans-serif;
+	overflow: hidden;
 }
 
 #container {
 	height: 100%;
 	text-align: center;
 	vertical-align: middle;
-	padding-top: 200px;
 }
 
 #main-header {
