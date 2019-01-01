@@ -12,11 +12,11 @@ body, html {
 }
 
 #main-header {
-
+	font-size: 72px;
 }
 
 #sub-header {
-
+	font-size: 36px;
 }
 
 /* nav container, overriding default values */
